@@ -1,0 +1,11 @@
+# Streamlit secrects
+.streamlit/
+
+# Python folders
+__pycache__/
+venv/
+.env
+
+# Mac system files
+.DS_Store
+
