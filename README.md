@@ -8,6 +8,9 @@ A multi-agent system built with **Streamlit** and **aisuite**. It features an in
 - **Weather Agent**: Fetches real-time weather using the OpenWeatherMap API.
 - **Modern UI**: Streamlit interface with custom CSS and theme selection.
 
+## Future Improvements
+- **Memory**:Currently it just acts as a chatbot without memory of the previous user questions.Next idea would be to integrate this ability to the Agent. 
+
 ## ⚙️ Setup
 1. Clone the repo: `git clone https://github.com/DeepBhattarai/Agentic_AI.git`
 2. Create venv and install: `pip install -r requirements.txt`
